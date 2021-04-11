@@ -14,7 +14,7 @@ Here I need to write something to describe my project but there is no so mush in
 
 > Thanks `FreeIT` for motivation.
 
-May be I had to use this:
+I use this as an example:
 - [*Art of README*](https://github.com/noffle/art-of-readme).
 
 ```shell
