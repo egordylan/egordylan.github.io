@@ -9,7 +9,7 @@
 Here I need to write something to describe my project but there is no so mush information about.
 
 1. I have to make a repository.
-2. I heve to make a one line web page.
+2. I have to make a one line web page.
 3. I have to commit it to `GitHub`.
 
 > Thanks `FreeIT` for motivation.
