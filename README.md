@@ -21,4 +21,4 @@ May be I had to use this:
 Good luck for me.
 ```
 
-Thanks to @anthonykot for many long conversations about python.
+Thanks to @AnthonyKot for many long conversations about python.
