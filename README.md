@@ -1,8 +1,9 @@
 # egordylan.github.io
 ***The first one line web page.***
+
 **Homework for FreeIT.**
 
-####Little description
+**Little description**
 
 *This is the firs README.md to try use GitHub.*
 Here I need to write something to describe my project but there is no so mush information about.
