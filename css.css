@@ -1,0 +1,119 @@
+:root {
+    --bg: #252835;
+    --text: #e7e7e7;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+     background-color: var(--bg);
+     color: var(--text);
+     font-size: 18px;
+     font-family: "Ubuntu", sans-serif;
+     font-weight: 350;
+     transition: background 0.6s ease-in-out;
+     min-width: 320px;
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: "Helvetica", sans-serif;
+  }
+
+  h2 {
+    /* letter-spacing: 2px; */
+    text-align: center;
+    text-shadow: red 0 0, cyan 0 0;
+    transition: text-shadow 80ms;
+  }
+
+  h2:hover {
+    text-shadow: red -3px 0, cyan 3px 0;
+
+  }
+  
+  ul {
+    margin: 10;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  p {
+    line-height: 0.5;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  button {
+    background: transparent;
+    border: none;
+  }
+  
+  .title {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 48px;
+  }
+  
+  .main-wrapper {
+    margin: 0 auto;
+    padding-top: 90px;
+  }
+  
+  .container {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    margin-bottom: 68px;
+  }
+  
+  .visual-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+  }
+  
+  .about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 68px;
+  }
+  
+  .about-me__img-container {
+    position: relative;
+    margin-top: auto;
+    margin-bottom: 32px;
+  }
+  
+  .about-me__img {
+    display: block;
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+  }
+
+  .page-footer__inner {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+  }
+
+  .page-footer__copyright {
+    width: 100%;
+  }
