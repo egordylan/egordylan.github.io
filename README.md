@@ -20,5 +20,3 @@ I use this as an example:
 ```shell
 Good luck for me.
 ```
-
-Thanks to @AnthonyKot for many long conversations about python.
